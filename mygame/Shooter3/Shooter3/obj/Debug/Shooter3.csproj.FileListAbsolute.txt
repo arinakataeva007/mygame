@@ -1,0 +1,16 @@
+C:\mygame\Shooter3\Shooter3\bin\Debug\Shooter3.exe.config
+C:\mygame\Shooter3\Shooter3\bin\Debug\Shooter3.exe
+C:\mygame\Shooter3\Shooter3\bin\Debug\Shooter3.pdb
+C:\mygame\Shooter3\Shooter3\obj\Debug\Shooter3.csproj.AssemblyReference.cache
+C:\mygame\Shooter3\Shooter3\obj\Debug\Shooter3.csproj.SuggestedBindingRedirects.cache
+C:\mygame\Shooter3\Shooter3\obj\Debug\Shooter3.Form1.resources
+C:\mygame\Shooter3\Shooter3\obj\Debug\Shooter3.Properties.Resources.resources
+C:\mygame\Shooter3\Shooter3\obj\Debug\Shooter3.csproj.GenerateResource.cache
+C:\mygame\Shooter3\Shooter3\obj\Debug\Shooter3.csproj.CoreCompileInputs.cache
+C:\mygame\Shooter3\Shooter3\obj\Debug\Shooter3.exe
+C:\mygame\Shooter3\Shooter3\obj\Debug\Shooter3.pdb
+C:\mygame\Shooter3\Shooter3\obj\Debug\Shooter3.Shooter.resources
+C:\mygame\Shooter3\Shooter3\obj\Debug\Interop.MediaPlayer.dll
+C:\mygame\Shooter3\Shooter3\obj\Debug\Interop.WMPLib.dll
+C:\mygame\Shooter3\Shooter3\obj\Debug\Interop.WMPNSSCI.dll
+C:\mygame\Shooter3\Shooter3\obj\Debug\Shooter3.csproj.ResolveComReference.cache
